@@ -60,8 +60,6 @@ MonoBehaviour:
   lifeBar: {fileID: 2428479040605171157}
   shootSFX: {fileID: 8300000, guid: 95b55a66d90319a488e53c9307758d12, type: 3}
   damageSFX: {fileID: 8300000, guid: 634a674a88f0be34aa3e8b3450d149b4, type: 3}
-  audioSource: {fileID: 4268742306414384411, guid: a6905022466bb6b41886147867e75160,
-    type: 3}
   deathEffect: {fileID: 8484711118736393866, guid: bb86729126746734db8017b50ddd2e73,
     type: 3}
 --- !u!61 &2428479040111280715
@@ -343,7 +341,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 981ea85e69e77974081ab323c6d3e458, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
